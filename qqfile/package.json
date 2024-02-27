@@ -1,0 +1,17 @@
+{
+  "name": "qqfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./index.js"
+  },
+  "author": "",
+  "license": "GPLv3",
+  "dependencies": {
+    "oicq": "^1.19.4"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.13"
+  }
+}
